@@ -1,8 +1,9 @@
 
 
-import firebaseInitialize from '../Firebase/firebase.Initialize'
+import firebaseInitialize from '../Firebase/firebase.Initialize';
 
 firebaseInitialize();
+
 
 const useFirebase=()=>{
    
